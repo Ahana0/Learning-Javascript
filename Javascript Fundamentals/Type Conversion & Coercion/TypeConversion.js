@@ -38,7 +38,7 @@ console.log(str+myNum);
 
 let str2 = Number("987");
 let myNum2 = 63;
-console.log(str2+myNum);
+console.log(str2+myNum2);
 
 
 
