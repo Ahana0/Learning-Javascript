@@ -31,5 +31,14 @@ console.log(num1);
 let num2 = parseFloat(53.0987);
 console.log(num2.toFixed(8)); //toFixed is for fixing values after point
 
+                                       //COERCION
+let str="346";
+let myNum= 78;
+console.log(str+myNum);
+
+let str2 = Number("987");
+let myNum2 = 63;
+console.log(str2+myNum);
+
 
 
